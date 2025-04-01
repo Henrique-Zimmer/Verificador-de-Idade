@@ -1,13 +1,3 @@
-/*function verificar(){
-    var ano = document.getElementById('ano')
-    var homem = document.getElementById('masculino')
-    var mulher = document.getElementById('mulher')
-    var idade = 2025 - ano
-    if (ano >= 1910 && ano <1965){
-        res.innerHTML = `Detectamos uma pessoa com ${idade} anos.`
-    }
-
-}*/
 
 function verificar(){
     var data = new Date()
